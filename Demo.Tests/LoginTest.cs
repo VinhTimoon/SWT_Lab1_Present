@@ -16,7 +16,6 @@ namespace Demo.Tests
                 employeeList.Add(new Employee(
                     id: i,
                     name: i.ToString(),
-                    gmail: $"{i}@gmail.com",
                     password: i.ToString(),
                     fullName: $"Employee {i}"
                 ));
@@ -56,6 +55,5 @@ namespace Demo.Tests
             var result = TestLogin("2", "");
             Assert.That(result, Is.Null);
         }
-
     }
 }
