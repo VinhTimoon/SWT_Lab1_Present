@@ -98,3 +98,4 @@ D:\Code SWT\Lab\Lab1_V2\obj\Debug\net6.0\refint\Lab1_V2.dll
 D:\Code SWT\Lab\Lab1_V2\obj\Debug\net6.0\Lab1_V2.pdb
 D:\Code SWT\Lab\Lab1_V2\obj\Debug\net6.0\Lab1_V2.genruntimeconfig.cache
 D:\Code SWT\Lab\Lab1_V2\obj\Debug\net6.0\ref\Lab1_V2.dll
+D:\Code SWT\Lab\Lab1_V2\obj\Debug\net6.0\Lab1_V2.sourcelink.json
